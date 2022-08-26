@@ -1,4 +1,4 @@
 # Store-Billing-System
 
-Using Hashing Indexing Technique
+Using Hashing Indexing Technique <br>
 File Structures
